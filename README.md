@@ -17,8 +17,8 @@
 <td align="center"><a href="https://sachk.189.cam/register?code=1YIbUxet" rel="nofollow">SAC</a></td>
 <td align="center">中转</td>
 <td align="center">1 &amp; 1.3</td>
-<td align="center">9.99 / 100 GB</td>
-<td align="center">199.99 / 1000 GB</td>
+<td align="center">9.99元 / 100 GB</td>
+<td align="center">199.99元 / 1000 GB</td>
 <td align="center">Null</td>
 <td align="center">Null</td>
 </tr>
@@ -26,8 +26,8 @@
 <td align="center"><a href="https://www.xiaofeixiang.vip/#/register" rel="nofollow">小飞象</a></td>
 <td align="center">中转</td>
 <td align="center">1</td>
-<td align="center">1 / 200GB</td>
-<td align="center">8 / 1000 GB</td>
+<td align="center">1元 / 200GB</td>
+<td align="center">8元 / 1000 GB</td>
 <td align="center">Null</td>
 <td align="center">限时1元购</td>
 </tr>
@@ -36,8 +36,8 @@
 <td align="center"><a href="https://www.onesy1.cc/auth/register?code=R4Lm" rel="nofollow">壹速云</a></td>
 <td align="center">中转</td>
 <td align="center">1</td>
-<td align="center">10.90 / 150 GB</td>
-<td align="center">188.00 / 1000 GB</td>
+<td align="center">10.90元 / 150 GB</td>
+<td align="center">188.00元 / 1000 GB</td>
 <td align="center">Null</td>
 <td align="center">Null</td>
 </tr>
@@ -46,8 +46,8 @@
 <td align="center"><a href="https://ciyy.me/#/register?code=tsL8Me6h" rel="nofollow">次元雲</a></td>
 <td align="center">中转</td>
 <td align="center">1</td>
-<td align="center">10.00 / 128 GB</td>
-<td align="center">85.00 / 500 GB</td>
+<td align="center">10.00元 / 128 GB</td>
+<td align="center">85.00元 / 500 GB</td>
 <td align="center">Null</td>
 <td align="center">Null</td>
 </tr>
