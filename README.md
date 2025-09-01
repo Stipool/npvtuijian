@@ -26,10 +26,10 @@
 <td align="center"><a href="https://www.xiaofeixiang.vip/#/register" rel="nofollow">小飞象</a></td>
 <td align="center">中转</td>
 <td align="center">1</td>
-<td align="center">1 / 200 GB</td>
+<td align="center">1 / 200GB</td>
 <td align="center">8 / 1000 GB</td>
 <td align="center">Null</td>
-<td align="center">Null</td>
+<td align="center">限时1元购</td>
 </tr>
 <tr>
 <td align="center">2019.08.15</td>
